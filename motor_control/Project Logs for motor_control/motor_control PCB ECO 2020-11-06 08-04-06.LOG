@@ -1,0 +1,9 @@
+Added Component: Designator=U1(TQFP-PT44_M)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentAvailability"; Value = "Unknown. Contact manufacturer to determine status."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revB, Oct-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1mm Body, 2.00mm [TQFP]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TQFP-PT44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Added Class: Name=motor_control
+Added Room: Name=motor_control
